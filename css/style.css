@@ -49,6 +49,7 @@
 		url('../fonts/futurastd-bold.ttf') format('truetype'),
 		url('../fonts/futurastd-bold.svg#FuturaPT-Book') format('svg');
 }
+
 /*-------------General Style---------------------------------------*/
 html{
 	overflow-x:hidden !important;
@@ -97,7 +98,7 @@ h6 {
 }
 p {
 	text-align:left;
-	font-size:15px;
+	font-size:17px;
 	line-height:24px;
 	padding-bottom:10px;
 }
@@ -373,8 +374,8 @@ section {
 .subtitle {
 	color:#fff;
 	font-size:16px;
-	font-style:italic;
-	font-family:Georgia, "Times New Roman", Times, serif;
+	/*font-style:italic;*/
+	font-family: 'Quicksand', "Times New Roman", Times, serif;
 	padding-top:12px;
 	opacity:0.8;
 }
@@ -1902,14 +1903,14 @@ footer {
 }
 .pd-holder h5 {
 	text-align:left;
-	font-size:14px;
-	font-style:italic;
-	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:13px;
+	/*font-style:italic;*/
+	font-family:Quicksand, "Times New Roman", Times, serif;
 	padding-top:12px;
 }
 .pd-holder h5  a{
-	font-style:italic;
-	font-family:Georgia, "Times New Roman", Times, serif;
+	/*font-style:italic;*/
+	font-family:Quicksand, "Times New Roman", Times, serif;
 	opacity:0.8;
 }
 .project-details li a:hover {
