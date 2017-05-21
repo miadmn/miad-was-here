@@ -2526,7 +2526,7 @@ figure img {
 	color:#fff;
 }
 .flat-form {
-	border-top:50px solid #fff;
+	border-top:0px solid #fff;
 }
 .flat-form #contact-form {
 	max-width:650px;
