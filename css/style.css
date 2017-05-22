@@ -1913,6 +1913,13 @@ footer {
 	font-family:Quicksand, "Times New Roman", Times, serif;
 	opacity:0.8;
 }
+#st {
+  font-size: 23.5px;
+	line-height: 36px;
+	font-family: 'Catamaran', sans-serif;
+	text-align: justify;
+	opacity:0.7;
+}
 .project-details li a:hover {
 	text-decoration:line-through;
 }
