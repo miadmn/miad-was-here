@@ -2179,17 +2179,19 @@ footer {
 }
 .show-info {
 	position:absolute;
-	bottom:50px;
-	left:50px;
+	bottom:0px;
+	left:4px;
 	width:80%;
 	z-index:15;
 }
 .show-info span {
 	text-transform:uppercase;
 	font-size:16px;
-	color:#fff;
+	color: rgb(115, 115, 115);
 	cursor:pointer;
 	float:left;
+
+
 }
 .tooltip-info{
  	height: auto;
